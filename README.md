@@ -22,7 +22,7 @@ The robot consists of four major parts: power supplies, motors, controllers, and
 - **Sensors**: Waiting to be updated 
 
 <div align="center">
-    <img src="./circuit_system_diagram/system.jpg" width=60%>
+    <img src="./circuit_system_diagram/system.jpg" width=80%>
     <p>The system diagram</p>
 </div>
 
@@ -31,7 +31,7 @@ The robot consists of four major parts: power supplies, motors, controllers, and
 
 I choose Arduino Mega as motor/sensor controller. The robot uses four Mecanum wheels, I installed two L298N motor drivers; each driver controls two motors on the same side.
 <div align="center">
-    <img src="./circuit_system_diagram/circuit.png" width=60%>
+    <img src="./circuit_system_diagram/circuit.png" width=80%>
     <p>The circuit diagram</p>
 </div>
 
